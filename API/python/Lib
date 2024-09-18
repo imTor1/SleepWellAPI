@@ -1,0 +1,3 @@
+pip install pandas openpyxl
+pip install pandas scikit-learn joblib
+pip install flask
